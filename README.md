@@ -1,5 +1,3 @@
-# experimental-design
-
 # **Exploring Shelter Usage Trends in Toronto**
 
 ## **Project Overview**
