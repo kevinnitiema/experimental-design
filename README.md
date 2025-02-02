@@ -15,8 +15,8 @@ The analysis is based on data from the `INF2178_A1_data.xlsx` file, which contai
 - **Program Model** (Emergency or Transitional)
 - **Service User Count**
 - **Capacity Type** (Bed-based or Room-based)
-- **Actual Capacity (Beds & Rooms)**
-- **Occupied Capacity (Beds & Rooms)**
+- **Actual Capacity** (Beds & Rooms)
+- **Occupied Capacity** (Beds & Rooms)
 
 ### **Data Cleaning & Feature Engineering**
 - **Handling Missing Data:** Some columns contained missing values, but they were complementary and did not affect analysis.
